@@ -7,5 +7,6 @@
   <modules>
   	<module>helloworld</module>
   	<module>myapplication</module>
+  	<module>myweb</module>
   </modules>
 </project>
